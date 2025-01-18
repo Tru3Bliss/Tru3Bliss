@@ -5,6 +5,11 @@ pass:[<h2 align="center">
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>]
 
+[.text-center]
+=== 🌟 **About Me**
+I'm Solana blockchain developer. I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity.
+Have experience with EVM chain based development, especially Ethereum.
+
 
 [.text-center]
 === Rust 🦀 is a Biblically Accurate Programming Language!
