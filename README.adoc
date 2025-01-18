@@ -1,3 +1,5 @@
+
+[.text-center]
 <div style="text-align: center;">
   <h4>Hi, Nice to e-meet you 👋</h4>
 </div>
