@@ -1,5 +1,6 @@
-[.text-center]
-==== Hi Nice to e-meet you👋[Hacking Crabby Crab with dababy GIF, width=60]
+<div style="text-align: center;">
+  <h4>Hi, Nice to e-meet you 👋</h4>
+</div>
 
 [.text-center]
 === Rust 🦀 is a Biblically Accurate Programming Language!
