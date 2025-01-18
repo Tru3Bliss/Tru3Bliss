@@ -1,8 +1,10 @@
+
 pass:[<div align="center"><h1>Hi, Nice to e-meet you!</h1></div>]
 
 pass:[<h2 align="center">
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>]
+
 
 [.text-center]
 === Rust 🦀 is a Biblically Accurate Programming Language!
