@@ -1,66 +1,39 @@
 
 pass:[<div align="center"><h1>Hi, Nice to e-meet you!</h1></div>]
 
-pass:[<h2 align="center">
-  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
-</h2>]
-
-[.text-center]
+[.text-start]
 === 🌟 **About Me**
 I'm Solana blockchain developer. I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity.
 Have experience with EVM chain based development, especially Ethereum.
 
 
-[.text-center]
-=== Rust 🦀 is a Biblically Accurate Programming Language!
+[.text-start]
+=== 🛠 &nbsp;Languages and Tools :
+pass:[<div align="center"><p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p></div>]
 
-[cols="1"]
-|===
-
-|In the beginning, Ferris created Rust and the ownership rules.
-
-|Though I walk through the valley of undefined behavior, I will fear no bugs, for Rust is with me; your compiler and your borrow checker, they comfort me.
-
-|For where two or three are gathered in Rust's name, there Ferris is with them.
-
-|Blessed are the memory safe, for they shall inherit the performance.
-
-|And the compiler said, 'Let there be no nulls,' and there were none.
-
-|Render unto Rust the things that are Rust's, and unto C the things that are C's.
-
-|Rust is my shepherd; I shall not use unsafe.
-
-|Ask and it will be given to you; seek and you will find; knock and the compiler will open the gates of concurrency to you.
-
-|He who began a good work in you will carry it on to completion until the day of the final release.
-
-|For I know the plans I have for you, declares Ferris, plans to prosper you and not to cause data races, plans to give you a future and a hope.
-|===
-
-'''
-
-I am currently looking for a paid Open Source Rust-related gig. My current proposal:
-
-[cols="1"]
-
-|===
-
-| link:https://github.com/wiseaidev/dora-proposal[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=dora-proposal&show_icons=true&theme=dark[My Proposal to Become a Core Maintainer of Dora RS, width=900]]
-
-|===
-
-Let's see if Dora can help me find a way:
-
-[cols="1"]
-
-|===
-
-| image:https://github.com/wiseaidev/wiseaidev/blob/main/assets/dora-the-explorer.gif[Dora plz find a way, width=300]
-
-|===
+[.text-start]
 
 Additionally, I'm building Open SASS as an unpaid hobby project. I would be forever grateful if you could help me with its development:
+
+
+
 
 [cols="2"]
 
@@ -84,29 +57,6 @@ Additionally, I'm building Open SASS as an unpaid hobby project. I would be fore
 
 |===
 
-'''
-
-=== You can support my ongoing FOSS work by buying a copy of this thick bad boy:
-
-[cols="3"]
-
-|===
-
-| link:https://www.amazon.in/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://img.shields.io/badge/Amazon%20India-000000?logo=amazon&logoColor=white&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
-
-| link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[image:https://img.shields.io/badge/Amazon%20International-000000?logo=amazon&logoColor=white&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
-
-| link:https://orangeava.com/products/ultimate-rust-for-systems-programming[image:https://img.shields.io/badge/Publisher-000000?logoColor=orange&style=flat-square[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly]]
-
-| link:https://www.amazon.in/Ultimate-Rust-Systems-Programming-Architecting/dp/8196994737[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-Straight_1459x1800.jpg?v=1710928701[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 240]]
-
-| link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-Straight_1459x1800.jpg?v=1710928701[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 240]]
-
-| link:https://orangeava.com/products/ultimate-rust-for-systems-programming[image:https://orangeava.com/cdn/shop/files/Ultimate-Rust-for-Systems-Programming-3D_800x760.jpg[Ultimate Rust for Systems Programming: Master Core Programming for Architecting Secure and Reliable Software Systems with Rust and WebAssembly, 283]]
-
-|===
-
-link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-lang-book&show_icons=true&theme=dark[📚 Accompanying material for my __upcoming__ Rust book 🚀 (WIP), width=900]]
 
 === Thanks for your generous support ❤️!
 
@@ -244,53 +194,6 @@ link:https://github.com/wiseaidev/rust-lang-book[image:https://github-readme-sta
 
 |===
 
-'''
-
-==== I used to code in C#/Python/(Java/Type)Script in my past life, but now there's no need for that anymore!
-
-'''
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/coder-inbox/code-inbox-server[image:https://github-readme-stats.vercel.app/api/pin/?username=coder-inbox&repo=code-inbox-server&show_icons=true&theme=dark[Code Inbox server powered by FastAPI, Nylas, OpenAI, Judge0, MongoDB, Deta and friends , width=450]]
-
-| link:https://github.com/wiseaidev/awesome-python[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=awesome-python&show_icons=true&theme=dark[A collection of python notes was taken while watching every damn pycon video on YT tv and other resources like books, official documentation and such., width=450]]
-
-| link:https://github.com/wiseaidev/pydist2[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=pydist2&show_icons=true&theme=dark[A python library for computing distances., width=450]]
-
-| link:https://github.com/wiseaidev/frozndict[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=frozndict&show_icons=true&theme=dark[frozndict is a memory efficient immutable dictionary., width=450]]
-
-| link:https://github.com/wiseaidev/deepwordle[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=deepwordle&show_icons=true&theme=dark[deepwordle is a wordle clone game powered by deepgram, textual, tweepy, and friends., width=450]]
-
-| link:https://github.com/brave-chat/brave-chat[image:https://github-readme-stats.vercel.app/api/pin/?username=brave-chat&repo=brave-chat&show_icons=true&theme=dark[The ultimate slack alternative built with React, MUI, Redux, and friends., width=450]]
-
-| link:https://github.com/brave-chat/brave-chat-server[image:https://github-readme-stats.vercel.app/api/pin/?username=brave-chat&repo=brave-chat-server&show_icons=true&theme=dark[Brave Chat server powered by FastAPI, SQLAlchemy, Redis, SingleStoreDB and friends., width=450]]
-
-| link:https://github.com/brave-date/brave-date[image:https://github-readme-stats.vercel.app/api/pin/?username=brave-date&repo=brave-date&show_icons=true&theme=dark[The ultimate Tinder clone built with React, MUI, Redux, and friends., width=450]]
-
-| link:https://github.com/brave-date/brave-date-server[image:https://github-readme-stats.vercel.app/api/pin/?username=brave-date&repo=brave-date-server&show_icons=true&theme=dark[Brave Date server powered by FastAPI, ODMantic, MongoDB, Deta, and friends., width=450]]
-
-| link:https://github.com/moerphous/moerphous[image:https://github-readme-stats.vercel.app/api/pin/?username=moerphous&repo=moerphous&show_icons=true&theme=dark[The Ultimate XRPL NFT marketplace built with React, MUI, Redux, and friends., width=450]]
-
-| link:https://github.com/moerphous/moerphous-server[image:https://github-readme-stats.vercel.app/api/pin/?username=moerphous&repo=moerphous-server&show_icons=true&theme=dark[Moerphous server powered by FastAPI, ODMantic, MongoDB, PinataPY, XRPL-PY and friends., width=450]]
-
-| link:https://github.com/inclusive-web-hub/flexify[image:https://github-readme-stats.vercel.app/api/pin/?username=inclusive-web-hub&repo=flexify&show_icons=true&theme=dark[The ultimate add-on that empowers you to customize any website on the internet with a click of a button., width=450]]
-
-| link:https://github.com/wiseaidev/fine-dashboard[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=fine-dashboard&show_icons=true&theme=dark[An admin panel/dashboard with persistent storage powered by Refine, Supabase, RTK, RTK Query and friends., width=450]]
-
-| link:https://github.com/wiseaidev/truth-guard[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=truth-guard&show_icons=true&theme=dark[An admin panel/dashboard with persistent storage powered by Refine, Supabase, RTK, RTK Query and friends., width=450]]
-
-| link:https://github.com/hill-climb/game[image:https://github-readme-stats.vercel.app/api/pin/?username=hill-climb&repo=game&show_icons=true&theme=dark[A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit., width=450]]
-
-| link:https://github.com/wiseaidev/awesome-code[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=awesome-code&show_icons=true&theme=dark[Leetcode problems solutions in modern python: type annotations, unit tests, and more(BRB)., width=450]]
-
-| link:https://github.com/wiseaidev/Face-Recogntion-Detection[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=Face-Recogntion-Detection&show_icons=true&theme=dark[Opencv Implementations., width=450]]
-
-|
-
-|===
 
 '''
 
