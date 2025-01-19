@@ -29,18 +29,11 @@ pass:[<div align="center"><p>
 </p></div>]
 
 
-
-
-=== Thanks for your generous support ❤️!
-
 '''
 
 == 🚧 Projects
 
-==== I use Rust for pretty much everything these days, ngl!
-
-
-=== Pump.fun
+=== 🔐 Smart Contract
 
 [cols="2"]
 
@@ -48,11 +41,15 @@ pass:[<div align="center"><p>
 
 | link:https://github.com/Br2Sin/Pumpfun-Smart-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-Smart-Contract&show_icons=true&theme=dark[⚠️ This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool, width=450]]
 
-| link:https://github.com/Br2Sin/Pumpfun-bundler.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-bundler&show_icons=true&theme=dark[🖱️ PumpFun bundler,Simple bot to create and bundle on pump fun using jito, width=450]]
+| link:https://github.com/Br2Sin/PennyAuction.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=PennyAuction&show_icons=true&theme=dark[🖱️ This Smart Contract provides various functionalities to manage and operate penny auctions on Solana, width=450]]
+
+| link:https://github.com/Br2Sin/NFT-Marketplace-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=NFT-Marketplace-Contract&show_icons=true&theme=dark[🖱️ Solana NFT Marketplace program with NFT Trading & Auction, width=450]]
+
+| link:https://github.com/Br2Sin/Token-presale.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Token-presale&show_icons=true&theme=dark[🖱️ Solana spl token presale smart contract with anchor, test, cli + detailed readme, width=450]]
 
 |===
 
-=== 🧊 Crypto Trading Bots Collection
+=== 🧊 Crypto Trading Bots
 
 [cols="2"]
 
@@ -75,178 +72,3 @@ pass:[<div align="center"><p>
 | link:https://github.com/Br2Sin/Pumpfun-comment-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-comment-bot&show_icons=true&theme=dark[💬 pump.fun: pump fun comment bot, width=450]]
 
 |===
-
-=== ✨ AI
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/kevin-rs/autogpt[image:https://github-readme-stats.vercel.app/api/pin/?username=kevin-rs&repo=autogpt&show_icons=true&theme=dark[ World's First, Gemini Specific, Zero Shot, Most General, Most Capable, Blazingly Fast, and Extremely Flexible Pure Rust AI Agentic Framework (WIP). , width=450]]
-
-| link:https://github.com/kevin-rs/gems[image:https://github-readme-stats.vercel.app/api/pin/?username=kevin-rs&repo=gems&show_icons=true&theme=dark[💎 A cli, tui, and sdk for interacting with the Gemini API (WIP), width=450]]
-
-| link:https://github.com/wiseaidev/polars-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=polars-ai&show_icons=true&theme=dark[💬 Chat with your Polars DataFrame from your CLI and your app! (WIP), width=450]]
-
-|
-
-|===
-
-=== 🔐 Cryptography
-
-[cols="1"]
-
-|===
-
-| link:https://github.com/wiseaidev/stegano[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=stegano&show_icons=true&theme=dark[A powerful and memory-safe steganography tool 🕵️‍♂️ (WIP), width=450]]
-
-|===
-
-=== 🎨 UI
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/next-rs/next-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=next-rs&repo=next-rs&show_icons=true&theme=dark[UI in Rust made simple. (WIP), width=450]]
-
-| link:https://github.com/wiseaidev/input-yew[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=input-yew&show_icons=true&theme=dark[A feature-rich, accessible, highly customizable, functional, reusable input component for Yew and You, btw., width=450]]
-
-| link:https://github.com/wiseaidev/yew-components-tailwind[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=yew-components-tailwind&show_icons=true&theme=dark[A Collection of Yew Framework Components - Tailwind., width=450]]
-
-| link:https://github.com/wiseaidev/yew-components-bootstrap[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=yew-components-bootstrap&show_icons=true&theme=dark[A Collection of Yew Framework Components - Bootstrap V5., width=450]]
-
-| link:https://github.com/wiseaidev/yew-components-pure-css[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=yew-components-pure-css&show_icons=true&theme=dark[A Collection of Yew Framework Components - Pure CSS., width=450]]
-
-| link:https://github.com/wiseaidev/chat-room[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=chat-room&show_icons=true&theme=dark[A simple chat room application powered by Yew and PubNub., width=450]]
-
-|===
-
-=== 🌐 Web
-
-[cols="1"]
-
-|===
-
-| link:https://github.com/wiseaidev/duckduckgo[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=duckduckgo&show_icons=true&theme=dark[🦆 A CLI and library for instant DuckDuckGo searches. (WIP), width=450]]
-
-|===
-
-=== 🛠️ Utils
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/wiseaidev/bump2version[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=bump2version&show_icons=true&theme=dark[A simple rust-based implementation of python bump2version package (WIP), width=450]]
-
-| link:https://github.com/wiseaidev/depth[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=depth&show_icons=true&theme=dark[Inspect crate.io crates on the fly, as a Tree ├── (WIP), width=450]]
-
-|===
-
-=== 🤝 Networking
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/wiseaidev/ipcap[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=ipcap&show_icons=true&theme=dark[ 🌍 Perform IP lookup from the command line without internet access. (WIP), width=450]]
-
-| link:https://github.com/wiseaidev/rping[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rping&show_icons=true&theme=dark[ 🌊 A Fully Anonymous Any TCP Flag Flooding Attack CLI., width=450]]
-
-|===
-
-=== 📚 Tutorials/Books
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/wiseaidev/rust-data-analysis[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-data-analysis&show_icons=true&theme=dark[Rust for data analysis encyclopedia (WIP)., width=450]]
-
-| link:https://github.com/wiseaidev/rust-releases[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-releases&show_icons=true&theme=dark[🦀 Explore Rust Releases Through Tiny Practical Examples. (WIP), width=450]]
-
-| link:https://github.com/wiseaidev/dark-web-rust[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=dark-web-rust&show_icons=true&theme=dark[A hands-on book for abusing systems using Rust - Open Research, width=450]]
-
-| link:https://github.com/wiseaidev/rust-yew-book[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rust-yew-book&show_icons=true&theme=dark[📚 Accompanying material for my __upcoming__ Yew Web Dev book. Yew is a framework for You, btw! , width=450]]
-
-|===
-
-=== 📧 Mailing
-
-[cols="1"]
-
-|===
-
-| link:https://github.com/wiseaidev/nylas[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=nylas&show_icons=true&theme=dark[The non-official Rust SDK for the Nylas API v2 (WIP)., width=450]]
-
-|===
-
-=== 🧠 Algorithms
-
-[cols="1"]
-
-|===
-
-| link:https://github.com/wiseaidev/pad-left[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=pad-left&show_icons=true&theme=dark[A simple library to left pad a string with a given character up to a certain length., width=450]]
-
-|===
-
-
-'''
-
-== ✨ Contributions
-
-[cols="3"]
-
-|===
-
-| link:https://github.com/wiseaidev/rocket_csrf_token[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rocket_csrf_token&show_icons=true&theme=dark[CSRF (Cross-Site Request Forgery) protection for Rocket web framework (WIP), width=450]]
-
-| link:https://github.com/wiseaidev/crc32-v2[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=crc32-v2&show_icons=true&theme=dark[A port of the CRC-32 algorithm to Rust, width=450]]
-
-| link:https://github.com/wiseaidev/rocket-yew-starter-pack[image:https://github-readme-stats.vercel.app/api/pin/?username=wiseaidev&repo=rocket-yew-starter-pack&show_icons=true&theme=dark[Full Stack Yew, Rocket and Sled Template, width=450]]
-
-| link:https://github.com/shuttle-hq/shuttle-examples[image:https://github-readme-stats.vercel.app/api/pin/?username=shuttle-hq&repo=shuttle-examples&show_icons=true&theme=dark[Examples for using Shuttle with different frameworks and resources, width=450]]
-
-| link:https://github.com/nylas-samples/nylas-hacktoberfest-2023[image:https://github-readme-stats.vercel.app/api/pin/?username=nylas-samples&repo=nylas-hacktoberfest-2023&show_icons=true&theme=dark[Build with Nylas, width=450]]
-
-| link:https://github.com/ThePrimeagen/ts-rust-zig-deez[image:https://github-readme-stats.vercel.app/api/pin/?username=ThePrimeagen&repo=ts-rust-zig-deez&show_icons=true&theme=dark[Degens Interpreter Competition (DIC), width=450]]
-
-| link:https://github.com/mui/material-ui[image:https://github-readme-stats.vercel.app/api/pin/?username=mui&repo=material-ui&show_icons=true&theme=dark[MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design., width=450]]
-
-| link:https://github.com/mui/mui-x[image:https://github-readme-stats.vercel.app/api/pin/?username=mui&repo=mui-x&show_icons=true&theme=dark[MUI X: Build data-rich applications using a growing list of advanced React components., width=450]]
-
-| link:https://github.com/mui/material-ui-docs[image:https://github-readme-stats.vercel.app/api/pin/?username=mui&repo=material-ui-docs&show_icons=true&theme=dark[⚠️ Please don't submit PRs here as they will be closed. To edit the docs or source code, please use the main repository:, width=450]]
-
-| link:https://github.com/Sibyx/django_api_forms[image:https://github-readme-stats.vercel.app/api/pin/?username=Sibyx&repo=django_api_forms&show_icons=true&theme=dark[Declarative Django request validation for RESTful APIs, width=450]]
-
-| link:https://github.com/nidhaloff/b-rabbit[image:https://github-readme-stats.vercel.app/api/pin/?username=nidhaloff&repo=b-rabbit&show_icons=true&theme=dark[A thread safe library that aims to provide a simple API for interfacing with RabbitMQ. Built on top of rabbitpy, the library make it very easy to use the RabbitMQ message broker with just few lines of code. It implements all messaging pattern used by message brokers, width=450]]
-
-| link:https://github.com/nidhaloff/b-rabbit[image:https://github-readme-stats.vercel.app/api/pin/?username=nidhaloff&repo=b-rabbit&show_icons=true&theme=dark[A thread safe library that aims to provide a simple API for interfacing with RabbitMQ. Built on top of rabbitpy, the library make it very easy to use the RabbitMQ message broker with just few lines of code. It implements all messaging pattern used by message brokers, width=450]]
-
-| link:https://github.com/ethereum/web3.py[image:https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=web3.py&show_icons=true&theme=dark[A python interface for interacting with the Ethereum blockchain and ecosystem., width=450]]
-
-| link:https://github.com/ianare/exif-py[image:https://github-readme-stats.vercel.app/api/pin/?username=ianare&repo=exif-py&show_icons=true&theme=dark[Easy to use Python module to extract Exif metadata from digital image files., width=450]]
-
-| link:https://github.com/tchapi/markdown-cheatsheet[image:https://github-readme-stats.vercel.app/api/pin/?username=tchapi&repo=markdown-cheatsheet&show_icons=true&theme=dark[Markdown Cheatsheet for Github Readme.md, width=450]]
-
-| link:https://github.com/sqlalchemy/sqlalchemy[image:https://github-readme-stats.vercel.app/api/pin/?username=sqlalchemy&repo=sqlalchemy&show_icons=true&theme=dark[The Database Toolkit for Python), width=450]]
-
-| link:https://github.com/python/typeshed[image:https://github-readme-stats.vercel.app/api/pin/?username=python&repo=typeshed&show_icons=true&theme=dark[Collection of library stubs for Python, with static types., width=450]]
-
-| link:https://github.com/eclipse-zenoh/zenoh-python[image:https://github-readme-stats.vercel.app/api/pin/?username=eclipse-zenoh&repo=zenoh-python&show_icons=true&theme=dark[Python API for zenoh., width=450]]
-
-| link:https://github.com/redis/redis-om-python[image:https://github-readme-stats.vercel.app/api/pin/?username=redis&repo=redis-om-python&show_icons=true&theme=dark[Object mapping, and more, for Redis and Python., width=450]]
-
-| link:https://github.com/forem/forem[image:https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem&show_icons=true&theme=dark[For empowering community., width=450]]
-
-| link:https://github.com/rottingresearch/linkrot[image:https://github-readme-stats.vercel.app/api/pin/?username=rottingresearch&repo=linkrot&show_icons=true&theme=dark[This Python program scans pdfs and websites for links and checks if the links are active or return an error code., width=450]]
-
-|===
-
-'''
-
-> 📝 NOTE: The "AI" in my username "wiseaidev" stands for *Anonymous Individual* (like *Anonymous Indian*), not *Artificial Intelligence*.
-
-'''
