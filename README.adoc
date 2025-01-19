@@ -28,34 +28,7 @@ pass:[<div align="center"><p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p></div>]
 
-[.text-start]
 
-Additionally, I'm building Open SASS as an unpaid hobby project. I would be forever grateful if you could help me with its development:
-
-
-
-
-[cols="2"]
-
-|===
-
-| link:https://github.com/opensass/alert-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=alert-rs&show_icons=true&theme=dark[⚠️ A highly customizable alert component for WASM frameworks, width=450]]
-
-| link:https://github.com/opensass/scroll-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=scroll-rs&show_icons=true&theme=dark[🖱️ A highly customizable scroll-to-anywhere component for WASM frameworks, width=450]]
-
-| link:https://github.com/opensass/input-rs[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=input-rs&show_icons=true&theme=dark[🎡 A highly customizable input component for WASM frameworks, width=450]]
-
-| link:https://github.com/opensass/nano-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=nano-ai&show_icons=true&theme=dark[🦀 A Gemini Nano Adapter for WASM Frameworks, width=450]]
-
-| link:https://github.com/opensass/x-ai[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=x-ai&show_icons=true&theme=dark[⚡ Beyond Blazingly Fast 🚀 𝕏-AI Rusty CLI, TUI and SDK, width=450]]
-
-| link:https://github.com/opensass/nano-og[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=nano-og&show_icons=true&theme=dark[🦞 A Blazingly Fast 🚀 AI-powered Open Graph Image Generator, width=450]]
-
-| link:https://github.com/opensass/opensass[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=opensass&show_icons=true&theme=dark[🦀 A Blazingly Fast 🚀 Full Stack Blog App With Admin Panel & Landing Page Powered by Dioxus. Dioxus Server Functions, Axum & MongoDB, width=450]]
-
-| link:https://github.com/opensass/aibook[image:https://github-readme-stats.vercel.app/api/pin/?username=opensass&repo=aibook&show_icons=true&theme=dark[🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB, width=450]]
-
-|===
 
 
 === Thanks for your generous support ❤️!
@@ -66,15 +39,40 @@ Additionally, I'm building Open SASS as an unpaid hobby project. I would be fore
 
 ==== I use Rust for pretty much everything these days, ngl!
 
-=== 🧊 Web3
+
+=== Pump.fun
 
 [cols="2"]
 
 |===
 
-| link:https://github.com/GigaDAO/openbook[image:https://github-readme-stats.vercel.app/api/pin/?username=GigaDAO&repo=openbook&show_icons=true&theme=dark[📖 A CLI, TUI and SDK to interact with the OpenBook market on the Solana blockchain (WIP), width=450]]
+| link:https://github.com/Br2Sin/Pumpfun-Smart-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-Smart-Contract&show_icons=true&theme=dark[⚠️ This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool, width=450]]
 
-| link:https://github.com/GigaDAO/wasi-sol[image:https://github-readme-stats.vercel.app/api/pin/?username=GigaDAO&repo=wasi-sol&show_icons=true&theme=dark[💳 A Solana Wallet adapter for WASM frameworks (WIP), width=450]]
+| link:https://github.com/Br2Sin/Pumpfun-bundler.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-bundler&show_icons=true&theme=dark[🖱️ PumpFun bundler,Simple bot to create and bundle on pump fun using jito, width=450]]
+
+|===
+
+=== 🧊 Crypto Trading Bots Collection
+
+[cols="2"]
+
+|===
+
+| link:https://github.com/Br2Sin/Shitcoin-Raydium-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Shitcoin-Raydium-bot&show_icons=true&theme=dark[📖 This is the memecoin bot connecting with Raydium SDK,: Unwrap Sol, Token creation, Market creation, Pool creation, Buy/Sell, Add/Remove Liquidity, width=450]]
+
+| link:https://github.com/Br2Sin/Copy-Trading-Bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Copy-Trading-Bot&show_icons=true&theme=dark[💳 Copy trading bot, copy trading bot with jito, copy trading bot with jupiter, width=450]]
+
+| link:https://github.com/Br2Sin/Raydium-volume-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Raydium-volume-bot&show_icons=true&theme=dark[💳 Copy trading bot, copy trading bot with jito, copy trading bot with jupiter, width=450]]
+
+| link:https://github.com/Br2Sin/Multidex-volume-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Multidex-volume-bot&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+
+| link:https://github.com/Br2Sin/Pumpfun-sniper.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-sniper&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+
+| link:https://github.com/Br2Sin/Raydium-sniper-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Raydium-sniper-bot&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+
+| link:https://github.com/Br2Sin/Solana-Raydium-Bundler.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Solana-Raydium-Bundler&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+
+| link:https://github.com/Br2Sin/Pumpfun-comment-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-comment-bot&show_icons=true&theme=dark[💬 pump.fun: pump fun comment bot, width=450]]
 
 |===
 
