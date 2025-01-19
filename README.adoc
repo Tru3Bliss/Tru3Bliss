@@ -2,9 +2,14 @@
 pass:[<div align="center"><h1>Hi, Nice to e-meet you!</h1></div>]
 
 [.text-start]
+
 === 🌟 **About Me**
-I'm Solana blockchain developer. I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity.
-Have experience with EVM chain based development, especially Ethereum.
+I'm Blockchain and Web 5(2 + 3) developer. 
+Blockchain technology fascinates me with its limitless potential.
+If you have an innovative idea or a groundbreaking project, let’s bring it to life together.
+We’ll tackle challenges as a team and celebrate every milestone along the way.
+Collaboration is key, and when we work together, we achieve great things as one.
+
 
 
 [.text-start]
@@ -31,7 +36,7 @@ pass:[<div align="center"><p>
 
 '''
 
-== 🚧 Projects
+== 🚧 Interesting project
 
 === 🔐 Smart Contract
 
@@ -70,5 +75,17 @@ pass:[<div align="center"><p>
 | link:https://github.com/Br2Sin/Solana-Raydium-Bundler.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Solana-Raydium-Bundler&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
 
 | link:https://github.com/Br2Sin/Pumpfun-comment-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Pumpfun-comment-bot&show_icons=true&theme=dark[💬 pump.fun: pump fun comment bot, width=450]]
+
+|===
+
+=== 🧊 Other
+
+[cols="2"]
+
+|===
+
+| link:https://github.com/Br2Sin/solana-token-mgr[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=solana-token-mgr&show_icons=true&theme=dark[📖 This project is Solana Token Manager for Client, width=450]]
+
+| link:https://github.com/Br2Sin/Blink.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Br2Sin&repo=Blink&show_icons=true&theme=dark[💬 A Solana Blink is a shareable link that allows users to interact with the Solana blockchain from various web platforms, width=450]]
 
 |===
