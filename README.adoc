@@ -1,5 +1,5 @@
 
-pass:[<div align="center"><h1>Hi, Nice to e-meet you!</h1></div>]
+pass:[<div align="center"><h1>Hi, Nicᥱ 𝚝o ᥱ-ɱᥱᥱ𝚝 ỿoᴜ!</h1></div>]
 
 [.text-start]
 
@@ -13,7 +13,7 @@ pass:[<div align="center"><h1>Hi, Nice to e-meet you!</h1></div>]
 
 
 [.text-start]
-=== 🛠 &nbsp;Languages and Tools :
+=== 🛠 &nbsp;Lαɴɢυαɢeѕ αɴd Toolѕ :
 pass:[<div align="center"><p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@ pass:[<div align="center"><p>
 
 '''
 
-== 🚧 Interesting project
+== 🚧 Ꮖᥒꭲᥱꭱᥱꮪꭲιᥒꮐ ρꭱꮻꭻᥱᥴꭲ
 
 === 🤖 AI
 
@@ -50,7 +50,7 @@ pass:[<div align="center"><p>
 
 |===
 
-=== 🔐 Smart Contract
+=== 🔐 Ꮪꮇꭺꭱꭲ Ꮯꮻᴨꭲꭱꭺꮯꭲ
 
 [cols="2"]
 
@@ -66,7 +66,7 @@ pass:[<div align="center"><p>
 
 |===
 
-=== 🧊 Crypto Trading Bots
+=== 🧊 Ꮯꭱꭹꮲꭲꮻ Ꭲꭱꭺꭰꮖᴨꮐ Ᏼꮻꭲꮪ
 
 [cols="2"]
 
@@ -90,7 +90,7 @@ pass:[<div align="center"><p>
 
 |===
 
-=== 🧊 Other
+=== 🧊 Ꮻꭲꮋꭼꭱ
 
 [cols="2"]
 
