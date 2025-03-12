@@ -56,13 +56,13 @@ pass:[<div align="center"><p>
 
 |===
 
-| link:https://github.com/Br2Sin/Pumpfun-Smart-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Pumpfun-Smart-Contract&show_icons=true&theme=dark[⚠️ This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool, width=450]]
+| link:https://github.com/Tru3Bliss/Pumpfun-Smart-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Pumpfun-Smart-Contract&show_icons=true&theme=dark[⚠️ This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool, width=450]]
 
-| link:https://github.com/Br2Sin/PennyAuction.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=PennyAuction&show_icons=true&theme=dark[🖱️ This Smart Contract provides various functionalities to manage and operate penny auctions on Solana, width=450]]
+| link:https://github.com/Tru3Bliss/PennyAuction.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=PennyAuction&show_icons=true&theme=dark[🖱️ This Smart Contract provides various functionalities to manage and operate penny auctions on Solana, width=450]]
 
-| link:https://github.com/Br2Sin/NFT-Marketplace-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=NFT-Marketplace-Contract&show_icons=true&theme=dark[🖱️ Solana NFT Marketplace program with NFT Trading & Auction, width=450]]
+| link:https://github.com/Tru3Bliss/NFT-Marketplace-Contract.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=NFT-Marketplace-Contract&show_icons=true&theme=dark[🖱️ Solana NFT Marketplace program with NFT Trading & Auction, width=450]]
 
-| link:https://github.com/Br2Sin/Token-presale.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Token-presale&show_icons=true&theme=dark[🖱️ Solana spl token presale smart contract with anchor, test, cli + detailed readme, width=450]]
+| link:https://github.com/Tru3Bliss/Token-presale.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Token-presale&show_icons=true&theme=dark[🖱️ Solana spl token presale smart contract with anchor, test, cli + detailed readme, width=450]]
 
 |===
 
@@ -72,21 +72,21 @@ pass:[<div align="center"><p>
 
 |===
 
-| link:https://github.com/Br2Sin/Shitcoin-Raydium-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Shitcoin-Raydium-bot&show_icons=true&theme=dark[📖 This is the memecoin bot connecting with Raydium SDK,: Unwrap Sol, Token creation, Market creation, Pool creation, Buy/Sell, Add/Remove Liquidity, width=450]]
+| link:https://github.com/Tru3Bliss/Shitcoin-Raydium-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Shitcoin-Raydium-bot&show_icons=true&theme=dark[📖 This is the memecoin bot connecting with Raydium SDK,: Unwrap Sol, Token creation, Market creation, Pool creation, Buy/Sell, Add/Remove Liquidity, width=450]]
 
-| link:https://github.com/Br2Sin/Copy-Trading-Bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Copy-Trading-Bot&show_icons=true&theme=dark[💳 Copy trading bot, copy trading bot with jito, copy trading bot with jupiter, width=450]]
+| link:https://github.com/Tru3Bliss/Copy-Trading-Bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Copy-Trading-Bot&show_icons=true&theme=dark[💳 Copy trading bot, copy trading bot with jito, copy trading bot with jupiter, width=450]]
 
-| link:https://github.com/Br2Sin/Raydium-volume-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Raydium-volume-bot&show_icons=true&theme=dark[💳 Copy trading bot, copy trading bot with jito, copy trading bot with jupiter, width=450]]
+| link:https://github.com/Tru3Bliss/Raydium-volume-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Raydium-volume-bot&show_icons=true&theme=dark[💳 Copy trading bot, copy trading bot with jito, copy trading bot with jupiter, width=450]]
 
-| link:https://github.com/Br2Sin/Multidex-volume-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Multidex-volume-bot&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+| link:https://github.com/Tru3Bliss/Multidex-volume-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Multidex-volume-bot&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
 
-| link:https://github.com/Br2Sin/Pumpfun-sniper.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Pumpfun-sniper&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+| link:https://github.com/Tru3Bliss/Pumpfun-sniper.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Pumpfun-sniper&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
 
-| link:https://github.com/Br2Sin/Raydium-sniper-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Raydium-sniper-bot&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+| link:https://github.com/Tru3Bliss/Raydium-sniper-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Raydium-sniper-bot&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
 
-| link:https://github.com/Br2Sin/Solana-Raydium-Bundler.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Solana-Raydium-Bundler&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
+| link:https://github.com/Tru3Bliss/Solana-Raydium-Bundler.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Solana-Raydium-Bundler&show_icons=true&theme=dark[💬 Multi-dex volume bot that include raydium, meteora and orca, width=450]]
 
-| link:https://github.com/Br2Sin/Pumpfun-comment-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Pumpfun-comment-bot&show_icons=true&theme=dark[💬 pump.fun: pump fun comment bot, width=450]]
+| link:https://github.com/Tru3Bliss/Pumpfun-comment-bot.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Pumpfun-comment-bot&show_icons=true&theme=dark[💬 pump.fun: pump fun comment bot, width=450]]
 
 |===
 
@@ -96,8 +96,8 @@ pass:[<div align="center"><p>
 
 |===
 
-| link:https://github.com/Br2Sin/solana-token-mgr[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=solana-token-mgr&show_icons=true&theme=dark[📖 This project is Solana Token Manager for Client, width=450]]
+| link:https://github.com/Tru3Bliss/solana-token-mgr[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=solana-token-mgr&show_icons=true&theme=dark[📖 This project is Solana Token Manager for Client, width=450]]
 
-| link:https://github.com/Br2Sin/Blink.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Blink&show_icons=true&theme=dark[💬 A Solana Blink is a shareable link that allows users to interact with the Solana blockchain from various web platforms, width=450]]
+| link:https://github.com/Tru3Bliss/Blink.git[image:https://github-readme-stats.vercel.app/api/pin/?username=Tru3Bliss&repo=Blink&show_icons=true&theme=dark[💬 A Solana Blink is a shareable link that allows users to interact with the Solana blockchain from various web platforms, width=450]]
 
 |===
