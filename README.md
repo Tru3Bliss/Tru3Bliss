@@ -14,7 +14,6 @@
     <a href="https://github.com/search?q=user%3Asourlodine+language%3AC%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
     <img src="https://img.shields.io/static/v1?label=&message=solana&color=161616&style=for-the-badge&logo=solana&logocolor=FCC624" alt="solana" style="transform: scale(1.2);" />
      <img src="https://img.shields.io/static/v1?label=&message=ethereum&color=161616&style=for-the-badge&logo=ethereum&logocolor=FCC624" alt="ethereum" style="transform: scale(1.2);" />
-     <img src="https://img.shields.io/static/v1?label=&message=node.js&color=161616&style=for-the-badge&logo=node.js&logocolor=339933" alt="nodejs" style="transform: scale(1.2);" />
 </p>
 
 ### Contributions
