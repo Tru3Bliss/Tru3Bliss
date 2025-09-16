@@ -16,4 +16,7 @@
 
 ### Contributions
 
-![Tru3Bliss stats](https://github-readme-stats.vercel.app/api?username=Tru3Bliss&show=prs_merged&show_icons=true&theme=transparent)
+<a href="https://github.com/dappboris-dev">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tru3Bliss&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tru3Bliss&layout=compact&langs_count=8&theme=blue-green"/>
+</a>
