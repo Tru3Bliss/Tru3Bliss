@@ -9,7 +9,7 @@ Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ AI Aɢᴇɴᴛꜱ & LᴀᴜɴᴄʜPᴀᴅ �
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
 <p> 
-    <a href="mailto:monkeydbresin@gmail.com" target="_blank"><img alt="Email"
+    <a href="mailto:0xMuseNine@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://x.com/0xMuseNine" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
