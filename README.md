@@ -9,8 +9,6 @@ Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ AI Aɢᴇɴᴛꜱ & LᴀᴜɴᴄʜPᴀᴅ �
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
 <p> 
-    <a href="https://x.com/0xMuseNine" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://discordapp.com/users/1274339638668038187" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/xMuseNine" target="_blank"><img alt="Telegram"
